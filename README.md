@@ -285,3 +285,4 @@ for d in ~/ai-pose-gallery-zh/skills/*-reference*; do ln -s "$d" ~/.claude/skill
    - 本仓库仅为中文本地化翻译与前端工程实践存档，不对原始图片主张任何权利，**严禁任何人将本仓库图片提取后进行商业倒卖或付费分发**。若原作者对镜像存档有任何异议，请联系维护者立即处理。
 4. **开源协议**
    - 前端应用代码（`src/`）、ComfyUI 插件（`comfyui_plugin/`）与数据处理脚本（`scripts/`）以 [MIT 协议](LICENSE) 开源；该协议**不覆盖** `img/`、`thumbs/` 与 `data/` 中的图片及原始数据。
+   - <!-- trigger -->
